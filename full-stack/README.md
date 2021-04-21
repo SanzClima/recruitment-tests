@@ -9,6 +9,7 @@ You have to build a Full-Stack web app to calc all numeric params in a list. Use
 ## We will consider the following aspects in your code:
 - Files and folders structure
 - Component size
+- Testing
 - Error handling
 - Logic coupling
 
@@ -23,3 +24,8 @@ You have to build a Full-Stack web app to calc all numeric params in a list. Use
 - Don't use classes
 - Use react hooks / custom hooks
 - Use react redux
+
+## Indications:
+- Create a public repository (Github, Gitlab...) and share it with us.
+- Try to commit small changes frequently. We want to see how you build your code step by step.
+- Let us know when you are done, of course ;-)
