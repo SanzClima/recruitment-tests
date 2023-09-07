@@ -10,7 +10,7 @@ momento que se demanda frío, la presión de alta comienza a subir y la presión
 de alta puede alcanzar los 25 bares de presión, mientras que la de baja puede llegar hasta 0.5 bares.
 
 #### El subsistema de frío está compuesto por los siguientes componentes: 
-- __Compresor__: Se activa cuando se requiere enfriar y puede estar en tres estados OFF-MIN-MED-MAX. Está en OFF cuando 
+- __Compresor__: Se activa cuando se requiere enfriar y puede estar en 4 estados OFF-MIN-MED-MAX. Está en OFF cuando 
 no se demanda frío y el resto depende la demanda de frío.
 - __Ventiladores del condensador__: Se activan cuando se activa compresor y varía de 0-100, siendo 0 cuando nó se 
 requiere frío y 100 cuando la demanda de frío es máxima.
